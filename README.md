@@ -30,7 +30,6 @@ En este directorio está almacenado la documentación impresa del proyecto
 
 ----> Formato txt para que se visualice en texto en limpio ( Excepto imágenes )
 
-----> Formato ttf para que se visualice en formatos de letra escalables
 
 Directorio Presentación
 ------------------------
